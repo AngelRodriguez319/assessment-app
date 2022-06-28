@@ -1,0 +1,8 @@
+{
+  "extend": {
+    "actions": []
+  },
+  "platform": "reactjs",
+  "project_description": "This repository holds the source code of Assessment A7",
+  "project_name": "Assessment A7"
+}
